@@ -8,5 +8,5 @@ Author: GosoDesign
 Author URI: http://themeforest.net/user/gosodesign?ref=gosodesign
 */
 
-define( 'PENCI_SOLEDAD_SOCIAL_FEED', '1.1' );
+define( 'GOSO_AUTHOW_SOCIAL_FEED', '1.1' );
 require_once dirname( __FILE__ ) . '/lib/twitter.php';
